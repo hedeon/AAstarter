@@ -14,3 +14,7 @@ disable play protect either, so I solved the problem with an [Automate](https://
 provided by the application when it connects to the slave's hotspot.
 
 Any suggestion is welcome on how to disable play protect just for this app.
+
+# Not working after updating AndroidAuto to 16.4.6610
+
+See [issue #1](https://github.com/olivluca/AAstarter/issues/1)
